@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://aclaud.com
+Sitemap: https://aclaud.com/sitemap.xml
